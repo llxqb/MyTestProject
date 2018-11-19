@@ -10,11 +10,12 @@
     <Button
         android:id="@+id/btn_1"
         android:layout_width="match_parent"
-        android:text="@string/btn_1_name"
-        android:layout_height="40dp" />
+        android:layout_height="40dp"
+        android:text="@string/btn_1_name" />
+
     <Button
         android:id="@+id/btn_2"
         android:layout_width="match_parent"
-        android:text="@string/btn_1_name"
-        android:layout_height="40dp" />
+        android:layout_height="40dp"
+        android:text="@string/btn_2_name" />
 </LinearLayout>

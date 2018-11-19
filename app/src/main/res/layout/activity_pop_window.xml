@@ -8,5 +8,5 @@
     tools:context="cn.freemud.app.xfsg.xfsgapp.mytestproject.activity.PopWindowActivity">
 
 
-    <include layout="@layout/title_layout"></include>
+    <include layout="@layout/title_layout"/>
 </LinearLayout>

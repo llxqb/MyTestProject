@@ -9,7 +9,9 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity implements TakeawayRightAdapter.onDataChangeListener {
+import cn.freemud.app.xfsg.xfsgapp.mytestproject.base.BaseActivity;
+
+public class MainActivity extends BaseActivity implements TakeawayRightAdapter.onDataChangeListener {
 
     String[] orderName = {"状态1", "状态2", "状态3", "状态4"};
     List<Order> orderList = new ArrayList<>();
