@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTestProject</string>
+
+    <!--WelcomeActivity -->
+    <string name="btn_1_name">测试拉伸动画</string>
+    <string name="btn_2_name">测试popWindow</string>
+</resources>
